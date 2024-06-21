@@ -48,7 +48,7 @@ const login = async (call, callback) => {
         } else {
             return callback(null, {});
         }
-    } else {s
+    } else {
         return callback(null, {});
     }
 }
